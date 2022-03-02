@@ -2,6 +2,7 @@ libraries {
     maven
     sonarqube
     ansible
+    splunk
 }
 
 stages{
