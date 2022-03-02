@@ -1,6 +1,7 @@
 libraries {
     maven
     sonarqube
+    ansible
 }
 
 stages{
