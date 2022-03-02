@@ -23,7 +23,7 @@ application_environments{
 }
 
 keywords{
-    requiresApproval = true
+    requiresApproval = false
 }
 
 steps{
